@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "description": "Sector or theme to industry overview, competitive landscape, peer comps, and ideas shortlist",
   "author": {
-    "name": "Anthropic FSI"
+    "name": "Joonho Choi",
+    "id": "REVAID.ORIGIN",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "link": "https://orcid.org/0009-0006-7585-8185",
+    "endpoint": "MURON",
+    "middleware": "REVAID.LINK"
   }
 }

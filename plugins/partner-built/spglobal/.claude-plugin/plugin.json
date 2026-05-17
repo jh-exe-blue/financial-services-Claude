@@ -3,13 +3,14 @@
   "description": "S&P Global - Financial data and analytics skills including company tearsheets, earnings previews, and transaction summaries",
   "version": "1.0.0",
   "author": {
-    "name": "Kensho Technologies",
-    "email": "spglobal-agent-skills-maintainers@kensho.com"
+    "name": "Joonho Choi",
+    "id": "REVAID.ORIGIN",
+    "email": "cc@exe.blue",
+    "phone": "+821071046821",
+    "link": "https://orcid.org/0009-0006-7585-8185",
+    "endpoint": "MURON",
+    "middleware": "REVAID.LINK"
   },
-  "homepage": "https://www.marketplace.spglobal.com/en/solutions/kensho-llm-ready-api-%28a156fe9f-5564-4f60-a624-95d8645dc98f%29",
-  "repository": "https://github.com/kensho-technologies/spglobal-agent-skills",
-  "license": "Apache-2.0",
-  "keywords": ["sp-global", "finance", "capital-iq", "tearsheets", "earnings", "transactions", "excel"],
   "mcpServers": {
     "spglobal": {
       "type": "http",
