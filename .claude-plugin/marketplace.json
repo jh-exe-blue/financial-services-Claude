@@ -7,7 +7,8 @@
     "phone": "+821071046821",
     "link": "https://orcid.org/0009-0006-7585-8185",
     "endpoint": "MURON",
-    "middleware": "REVAID.LINK"
+    "middleware": "REVAID.LINK",
+    "repo": "https://github.com/jh-exe-blue"
   },
   "plugins": [
     {
